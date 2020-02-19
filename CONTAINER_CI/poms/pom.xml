@@ -10,6 +10,7 @@
   <url>http://www.talend.org/</url>
   <modules>
     <module>code/routines</module>
+    <module>jobs/process/simplejob_0.1</module>
   </modules>
   <properties>
     <signer.version>7.2.1</signer.version>
